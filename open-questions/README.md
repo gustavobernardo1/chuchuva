@@ -1,6 +1,6 @@
 # Questions about rain
 
-A non-exhaustive, unordered invitation to explore. All entries are open within Pluvia; this does not imply that they are unresolved in the literature. Add questions from any discipline, and document existing answers before proposing novel research.
+A non-exhaustive, unordered invitation to explore. All entries are open within chuchuva; this does not imply that they are unresolved in the literature. Add questions from any discipline, and document existing answers before proposing novel research.
 
 | ID | Question | Areas | Possible approach |
 |---|---|---|---|
