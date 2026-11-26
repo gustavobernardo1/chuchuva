@@ -1,3 +1,5 @@
+<p align="center"><strong>English</strong> | <a href="README.pt-BR.md">Português (Brasil)</a></p>
+
 <h1 align="center">Pluvia</h1>
 <p align="center"><em>Everything About Rain</em></p>
 <p align="center">An open-ended exploration of rain across nature, science, humanity and culture.</p>
